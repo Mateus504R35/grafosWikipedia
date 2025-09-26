@@ -3,8 +3,8 @@
 Este projeto realiza **web scraping** de páginas da Wikipedia usando **R** e, em seguida, constrói um **grafo de conexões** entre os artigos coletados utilizando **C++**.  
 
 ## Autores
-Mateus Eurípedes Malaquias Soares
-Marcella Silva Figueredo
+- Mateus Eurípedes Malaquias Soares
+- Marcella Silva Figueredo
 
 ## Estrutura do Projeto
 
